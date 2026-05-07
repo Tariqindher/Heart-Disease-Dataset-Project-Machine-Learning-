@@ -8,10 +8,10 @@ This project analyzes the **Heart Disease UCI dataset (heart_disease_uci.csv)** 
 
 ## ⚙️ Technologies Used
 
- * 🐍 Python
- * 📊 Pandas & NumPy
- * 📈 Matplotlib
- * 🤖 Scikit-learn
+* 🐍 Python
+* 📊 Pandas & NumPy
+* 📈 Matplotlib
+* 🤖 Scikit-learn
 
 ---
 
@@ -23,15 +23,7 @@ The dataset contains medical attributes like age, cholesterol, blood pressure, a
 
 ## 🔄 Project Workflow
 
-📥 Data Loading → 
-🧹 Cleaning → 
-🔤 Encoding → 
-⚖️ Scaling → 
-📉 PCA (95% variance) → 
-🔍 K-Means Clustering → 
-🌳 Random Forest → 
-⚡ SVM → 
-📊 Evaluation
+📥 Data Loading → 🧹 Cleaning → 🔤 Encoding → ⚖️ Scaling → 📉 PCA (95% variance) → 🔍 K-Means Clustering → 🌳 Random Forest → ⚡ SVM → 📊 Evaluation
 
 ---
 
@@ -65,13 +57,22 @@ The dataset contains medical attributes like age, cholesterol, blood pressure, a
 ## 📁 Project Structure
 
 ```
-Heart-Disease-Dataset-Project-Machine-Learning-/
+Heart-Disease-ML-Project/
 │
 ├── heart_disease_uci.csv
 ├── Heart_Disease_Project.ipynb
 ├── README.md
 └── screenshots/
 ```
+
+---
+
+## ▶️ How to Run Project
+
+1. 📥 Download the repository
+2. 📓 Open the notebook in Google Colab or Jupyter Notebook
+3. 📂 Ensure the dataset file `heart_disease_uci.csv` is in the project folder
+4. ▶️ Run all cells step by step
 
 ---
 
@@ -84,4 +85,3 @@ Heart-Disease-Dataset-Project-Machine-Learning-/
 ## 📜 License
 
 This project is for educational purposes only.
-
